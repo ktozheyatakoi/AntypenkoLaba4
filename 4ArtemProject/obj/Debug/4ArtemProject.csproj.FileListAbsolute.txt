@@ -1,0 +1,13 @@
+C:\Users\Simon\source\repos\4ArtemProject\obj\Debug\4ArtemProject.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\4ArtemProject\bin\Debug\4ArtemProject.exe.config
+C:\Users\Simon\source\repos\4ArtemProject\bin\Debug\4ArtemProject.exe
+C:\Users\Simon\source\repos\4ArtemProject\bin\Debug\4ArtemProject.pdb
+C:\Users\Simon\source\repos\4ArtemProject\obj\Debug\4ArtemProject.exe
+C:\Users\Simon\source\repos\4ArtemProject\obj\Debug\4ArtemProject.pdb
+C:\Users\tema2\Desktop\4ArtemProject\bin\Debug\4ArtemProject.exe.config
+C:\Users\tema2\Desktop\4ArtemProject\bin\Debug\4ArtemProject.exe
+C:\Users\tema2\Desktop\4ArtemProject\bin\Debug\4ArtemProject.pdb
+C:\Users\tema2\Desktop\4ArtemProject\obj\Debug\4ArtemProject.csprojAssemblyReference.cache
+C:\Users\tema2\Desktop\4ArtemProject\obj\Debug\4ArtemProject.csproj.CoreCompileInputs.cache
+C:\Users\tema2\Desktop\4ArtemProject\obj\Debug\4ArtemProject.exe
+C:\Users\tema2\Desktop\4ArtemProject\obj\Debug\4ArtemProject.pdb
